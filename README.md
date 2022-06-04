@@ -17,7 +17,7 @@ The founder of Studio PLAYERS
 
 ---
 
-[![Tebex Store](https://media.discordapp.net/attachments/974213404162150414/982618161176248381/unknown.png?width=180&height=50)](https://studio-players.tebex.io/)[![YouTube Channel](https://media.discordapp.net/attachments/974213404162150414/982618468262244382/unknown.png?width=180&height=50)](https://www.youtube.com/c/StudioPLAYERS/)[![Twitch Channel](https://media.discordapp.net/attachments/974213404162150414/982618735858831410/unknown.png?width=150&height=50)](https://www.youtube.com/c/StudioPLAYERS/)
+[![Tebex Store](https://media.discordapp.net/attachments/974213404162150414/982618161176248381/unknown.png?width=180&height=50)](https://studio-players.tebex.io/)[![YouTube Channel](https://media.discordapp.net/attachments/974213404162150414/982618468262244382/unknown.png?width=180&height=50)](https://www.youtube.com/c/StudioPLAYERS/)[![Twitch Channel](https://media.discordapp.net/attachments/974213404162150414/982618735858831410/unknown.png?width=150&height=50)](https://www.twitch.tv/players_)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
