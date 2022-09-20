@@ -16,6 +16,13 @@ The founder of Studio PLAYERS
 - Websites
 
 ---
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dragodast&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dragodast Github Stats">
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragodast&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<br>
+<br>
 
 [![Tebex Store](https://media.discordapp.net/attachments/974213404162150414/982618161176248381/unknown.png?width=180&height=50)](https://studio-players.tebex.io/)[![YouTube Channel](https://media.discordapp.net/attachments/974213404162150414/982618468262244382/unknown.png?width=180&height=50)](https://www.youtube.com/c/StudioPLAYERS/)[![Twitch Channel](https://media.discordapp.net/attachments/974213404162150414/982618735858831410/unknown.png?width=150&height=50)](https://www.twitch.tv/players_)
 
@@ -41,3 +48,4 @@ The founder of Studio PLAYERS
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   </div>
