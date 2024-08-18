@@ -1,13 +1,16 @@
-# Dragodast
-The founder of Studio PLAYERS
+<h1 align="center">🔻 Dragodast 🔻</h1>
+<p align="center">The founder of Studio PLAYERS</p>
 
 ---
 
-[![Studio Discord](https://media.discordapp.net/attachments/974213404162150414/982616266776936478/unknown_1_kopie.png?width=200&height=50)](https://discord.gg/cgVtYKa)[![Dev Discord](https://media.discordapp.net/attachments/974213404162150414/982616512844144670/unknown_1_kopie.png?width=200&height=50)](https://discord.gg/5Xpa4wEehD)
+<div align="center">
+<a href="https://discord.gg/cgVtYKa" target="_blank"><img src="https://img.shields.io/badge/Discord-CZ_Studio-7289da?style=for-the-badge&logo=discord"></a>
+<a href="https://discord.gg/5Xpa4wEehD" target="_blank"><img src="https://img.shields.io/badge/Discord-EN_Development-7289da?style=for-the-badge&logo=discord"></a>
+</div>
 
 ---
 
-#### **Our studio making**
+<h2 align="center">What we are making?</h2>
 
 - Cheap and usefull scripts for FiveM Servers
 - Videos
@@ -16,36 +19,22 @@ The founder of Studio PLAYERS
 - Websites
 
 ---
+
+
+<div style="inline-block"; align="center";>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dragodast&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dragodast Github Stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragodast&layout=compact&theme=dark&bg_color=0A0A0A" alt="Dragodast top langs"/>
+</div>
+
+<br>
+<br>
+<br>
+
+<h2 align="center">Social Sites</h2>
+
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dragodast&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dragodast Github Stats">
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragodast&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br>
-<br>
-
-[![Tebex Store](https://media.discordapp.net/attachments/974213404162150414/982618161176248381/unknown.png?width=180&height=50)](https://studio-players.tebex.io/)[![YouTube Channel](https://media.discordapp.net/attachments/974213404162150414/982618468262244382/unknown.png?width=180&height=50)](https://www.youtube.com/c/StudioPLAYERS/)[![Twitch Channel](https://media.discordapp.net/attachments/974213404162150414/982618735858831410/unknown.png?width=150&height=50)](https://www.twitch.tv/players_)
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-   </div>
+   <a href="https://studio-players.tebex.io" target="_blank"><img src="https://img.shields.io/badge/Tebex_Store-Studio_PLAYERS-cccccc?style=for-the-badge&logo=tebex"></a>
+   <a href="https://www.youtube.com/c/StudioPLAYERS" target="_blank"><img src="https://img.shields.io/badge/YouTube-Studio_PLAYERS-CD201F?style=for-the-badge&logo=youtube"></a>
+   <a href="https://www.youtube.com/@StudioPLAYERS-EN" target="_blank"><img src="https://img.shields.io/badge/YouTube-Studio_PLAYERS_EN-CD201F?style=for-the-badge&logo=youtube"></a>
+   <a href="https://www.twitch.tv/players_" target="_blank"><img src="https://img.shields.io/badge/Twitch-players_-6441a5?style=for-the-badge&logo=twitch"></a>
+</div>
